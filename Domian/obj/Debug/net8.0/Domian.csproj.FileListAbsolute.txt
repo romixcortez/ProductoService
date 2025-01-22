@@ -1,0 +1,14 @@
+C:\Users\Usuario\Desktop\ROMINA\PRACTICA1\Practica1\Parctica\Domian\bin\Debug\net8.0\Domian.deps.json
+C:\Users\Usuario\Desktop\ROMINA\PRACTICA1\Practica1\Parctica\Domian\bin\Debug\net8.0\Domian.runtimeconfig.json
+C:\Users\Usuario\Desktop\ROMINA\PRACTICA1\Practica1\Parctica\Domian\bin\Debug\net8.0\Domian.dll
+C:\Users\Usuario\Desktop\ROMINA\PRACTICA1\Practica1\Parctica\Domian\bin\Debug\net8.0\Domian.pdb
+C:\Users\Usuario\Desktop\ROMINA\PRACTICA1\Practica1\Parctica\Domian\obj\Debug\net8.0\Domian.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\ROMINA\PRACTICA1\Practica1\Parctica\Domian\obj\Debug\net8.0\Domian.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\ROMINA\PRACTICA1\Practica1\Parctica\Domian\obj\Debug\net8.0\Domian.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\ROMINA\PRACTICA1\Practica1\Parctica\Domian\obj\Debug\net8.0\Domian.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\ROMINA\PRACTICA1\Practica1\Parctica\Domian\obj\Debug\net8.0\Domian.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\ROMINA\PRACTICA1\Practica1\Parctica\Domian\obj\Debug\net8.0\Domian.dll
+C:\Users\Usuario\Desktop\ROMINA\PRACTICA1\Practica1\Parctica\Domian\obj\Debug\net8.0\refint\Domian.dll
+C:\Users\Usuario\Desktop\ROMINA\PRACTICA1\Practica1\Parctica\Domian\obj\Debug\net8.0\Domian.pdb
+C:\Users\Usuario\Desktop\ROMINA\PRACTICA1\Practica1\Parctica\Domian\obj\Debug\net8.0\Domian.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\ROMINA\PRACTICA1\Practica1\Parctica\Domian\obj\Debug\net8.0\ref\Domian.dll

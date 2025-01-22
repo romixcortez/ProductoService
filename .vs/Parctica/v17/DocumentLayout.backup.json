@@ -1,0 +1,354 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\ROMINA\\PRACTICA1\\Practica1\\Parctica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75026B2E-F8AB-451B-B0EF-DBA18AD11B69}|Infrastructure\\Infrastructure.csproj|c:\\users\\usuario\\desktop\\romina\\practica1\\practica1\\parctica\\infrastructure\\gateway\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75026B2E-F8AB-451B-B0EF-DBA18AD11B69}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\gateway\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75026B2E-F8AB-451B-B0EF-DBA18AD11B69}|Infrastructure\\Infrastructure.csproj|c:\\users\\usuario\\desktop\\romina\\practica1\\practica1\\parctica\\infrastructure\\gateway\\ordenesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75026B2E-F8AB-451B-B0EF-DBA18AD11B69}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\gateway\\ordenesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EBADDD9-FD97-4ED7-AF21-0D6992EFB093}|Api\\Api.csproj|c:\\users\\usuario\\desktop\\romina\\practica1\\practica1\\parctica\\api\\controllers\\ordenescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EBADDD9-FD97-4ED7-AF21-0D6992EFB093}|Api\\Api.csproj|solutionrelative:api\\controllers\\ordenescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCD396A2-BEE3-4FE8-8647-E5BC61393E64}|Domian\\Domian.csproj|c:\\users\\usuario\\desktop\\romina\\practica1\\practica1\\parctica\\domian\\entities\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCD396A2-BEE3-4FE8-8647-E5BC61393E64}|Domian\\Domian.csproj|solutionrelative:domian\\entities\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EBADDD9-FD97-4ED7-AF21-0D6992EFB093}|Api\\Api.csproj|c:\\users\\usuario\\desktop\\romina\\practica1\\practica1\\parctica\\api\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EBADDD9-FD97-4ED7-AF21-0D6992EFB093}|Api\\Api.csproj|solutionrelative:api\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75026B2E-F8AB-451B-B0EF-DBA18AD11B69}|Infrastructure\\Infrastructure.csproj|c:\\users\\usuario\\desktop\\romina\\practica1\\practica1\\parctica\\infrastructure\\gateway\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75026B2E-F8AB-451B-B0EF-DBA18AD11B69}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\gateway\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Desktop\\ROMINA\\PRACTICA1\\Practica1\\Parctica\\Infrastructure\\Migrations\\20250122000302_migracion1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastructure\\Migrations\\20250122000302_migracion1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75026B2E-F8AB-451B-B0EF-DBA18AD11B69}|Infrastructure\\Infrastructure.csproj|c:\\users\\usuario\\desktop\\romina\\practica1\\practica1\\parctica\\infrastructure\\context\\productodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75026B2E-F8AB-451B-B0EF-DBA18AD11B69}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\context\\productodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75026B2E-F8AB-451B-B0EF-DBA18AD11B69}|Infrastructure\\Infrastructure.csproj|c:\\users\\usuario\\desktop\\romina\\practica1\\practica1\\parctica\\infrastructure\\infraestructureserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75026B2E-F8AB-451B-B0EF-DBA18AD11B69}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\infraestructureserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EBADDD9-FD97-4ED7-AF21-0D6992EFB093}|Api\\Api.csproj|c:\\users\\usuario\\desktop\\romina\\practica1\\practica1\\parctica\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5EBADDD9-FD97-4ED7-AF21-0D6992EFB093}|Api\\Api.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75026B2E-F8AB-451B-B0EF-DBA18AD11B69}|Infrastructure\\Infrastructure.csproj|c:\\users\\usuario\\desktop\\romina\\practica1\\practica1\\parctica\\infrastructure\\repositories\\productorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75026B2E-F8AB-451B-B0EF-DBA18AD11B69}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\productorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC772F90-3699-40CC-A84A-6C0B082F5E5C}|Application\\Application.csproj|c:\\users\\usuario\\desktop\\romina\\practica1\\practica1\\parctica\\application\\models\\productodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC772F90-3699-40CC-A84A-6C0B082F5E5C}|Application\\Application.csproj|solutionrelative:application\\models\\productodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC772F90-3699-40CC-A84A-6C0B082F5E5C}|Application\\Application.csproj|c:\\users\\usuario\\desktop\\romina\\practica1\\practica1\\parctica\\application\\contracts\\repositories\\iproductorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC772F90-3699-40CC-A84A-6C0B082F5E5C}|Application\\Application.csproj|solutionrelative:application\\contracts\\repositories\\iproductorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC772F90-3699-40CC-A84A-6C0B082F5E5C}|Application\\Application.csproj|c:\\users\\usuario\\desktop\\romina\\practica1\\practica1\\parctica\\application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FC772F90-3699-40CC-A84A-6C0B082F5E5C}|Application\\Application.csproj|solutionrelative:application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75026B2E-F8AB-451B-B0EF-DBA18AD11B69}|Infrastructure\\Infrastructure.csproj|c:\\users\\usuario\\desktop\\romina\\practica1\\practica1\\parctica\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{75026B2E-F8AB-451B-B0EF-DBA18AD11B69}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EBADDD9-FD97-4ED7-AF21-0D6992EFB093}|Api\\Api.csproj|c:\\users\\usuario\\desktop\\romina\\practica1\\practica1\\parctica\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EBADDD9-FD97-4ED7-AF21-0D6992EFB093}|Api\\Api.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Desktop\\ROMINA\\PRACTICA1\\Practica1\\Parctica\\Infrastructure\\Migrations\\20250121140909_PrimeraMigracion2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastructure\\Migrations\\20250121140909_PrimeraMigracion2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Desktop\\ROMINA\\PRACTICA1\\Practica1\\Parctica\\Infrastructure\\Migrations\\20250121140832_PrimeraMigracion1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastructure\\Migrations\\20250121140832_PrimeraMigracion1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCD396A2-BEE3-4FE8-8647-E5BC61393E64}|Domian\\Domian.csproj|c:\\users\\usuario\\desktop\\romina\\practica1\\practica1\\parctica\\domian\\domian.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CCD396A2-BEE3-4FE8-8647-E5BC61393E64}|Domian\\Domian.csproj|solutionrelative:domian\\domian.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrdenesController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\ROMINA\\PRACTICA1\\Practica1\\Parctica\\Api\\Controllers\\OrdenesController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\OrdenesController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\ROMINA\\PRACTICA1\\Practica1\\Parctica\\Api\\Controllers\\OrdenesController.cs",
+              "RelativeToolTip": "Api\\Controllers\\OrdenesController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T00:09:25.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Response.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\ROMINA\\PRACTICA1\\Practica1\\Parctica\\Infrastructure\\Gateway\\Response.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Gateway\\Response.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\ROMINA\\PRACTICA1\\Practica1\\Parctica\\Infrastructure\\Gateway\\Response.cs",
+              "RelativeToolTip": "Infrastructure\\Gateway\\Response.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T00:04:29.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Request.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\ROMINA\\PRACTICA1\\Practica1\\Parctica\\Infrastructure\\Gateway\\Request.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Gateway\\Request.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\ROMINA\\PRACTICA1\\Practica1\\Parctica\\Infrastructure\\Gateway\\Request.cs",
+              "RelativeToolTip": "Infrastructure\\Gateway\\Request.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAuwBMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T00:04:20.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrdenesService.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\ROMINA\\PRACTICA1\\Practica1\\Parctica\\Infrastructure\\Gateway\\OrdenesService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Gateway\\OrdenesService.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\ROMINA\\PRACTICA1\\Practica1\\Parctica\\Infrastructure\\Gateway\\OrdenesService.cs",
+              "RelativeToolTip": "Infrastructure\\Gateway\\OrdenesService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAswA4AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T00:03:57.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20250122000302_migracion1.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\ROMINA\\PRACTICA1\\Practica1\\Parctica\\Infrastructure\\Migrations\\20250122000302_migracion1.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20250122000302_migracion1.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\ROMINA\\PRACTICA1\\Practica1\\Parctica\\Infrastructure\\Migrations\\20250122000302_migracion1.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\20250122000302_migracion1.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T00:03:02.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductoController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\ROMINA\\PRACTICA1\\Practica1\\Parctica\\Api\\Controllers\\ProductoController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\ProductoController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\ROMINA\\PRACTICA1\\Practica1\\Parctica\\Api\\Controllers\\ProductoController.cs",
+              "RelativeToolTip": "Api\\Controllers\\ProductoController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwDkAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T23:48:47.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\ROMINA\\PRACTICA1\\Practica1\\Parctica\\Infrastructure\\Repositories\\ProductoRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\ProductoRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\ROMINA\\PRACTICA1\\Practica1\\Parctica\\Infrastructure\\Repositories\\ProductoRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\ProductoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T23:32:59.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\ROMINA\\PRACTICA1\\Practica1\\Parctica\\Application\\Models\\ProductoDTO.cs",
+              "RelativeDocumentMoniker": "Application\\Models\\ProductoDTO.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\ROMINA\\PRACTICA1\\Practica1\\Parctica\\Application\\Models\\ProductoDTO.cs",
+              "RelativeToolTip": "Application\\Models\\ProductoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T23:30:39.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\ROMINA\\PRACTICA1\\Practica1\\Parctica\\Domian\\Entities\\Producto.cs",
+              "RelativeDocumentMoniker": "Domian\\Entities\\Producto.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\ROMINA\\PRACTICA1\\Practica1\\Parctica\\Domian\\Entities\\Producto.cs",
+              "RelativeToolTip": "Domian\\Entities\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T23:24:56.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\ROMINA\\PRACTICA1\\Practica1\\Parctica\\Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\ROMINA\\PRACTICA1\\Practica1\\Parctica\\Api\\appsettings.json",
+              "RelativeToolTip": "Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-21T12:25:15.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InfraestructureServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\ROMINA\\PRACTICA1\\Practica1\\Parctica\\Infrastructure\\InfraestructureServiceRegistration.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\InfraestructureServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\ROMINA\\PRACTICA1\\Practica1\\Parctica\\Infrastructure\\InfraestructureServiceRegistration.cs",
+              "RelativeToolTip": "Infrastructure\\InfraestructureServiceRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T12:04:34.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductoDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\ROMINA\\PRACTICA1\\Practica1\\Parctica\\Infrastructure\\Context\\ProductoDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Context\\ProductoDbContext.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\ROMINA\\PRACTICA1\\Practica1\\Parctica\\Infrastructure\\Context\\ProductoDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\Context\\ProductoDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T12:15:57.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IProductoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\ROMINA\\PRACTICA1\\Practica1\\Parctica\\Application\\Contracts\\Repositories\\IProductoRepository.cs",
+              "RelativeDocumentMoniker": "Application\\Contracts\\Repositories\\IProductoRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\ROMINA\\PRACTICA1\\Practica1\\Parctica\\Application\\Contracts\\Repositories\\IProductoRepository.cs",
+              "RelativeToolTip": "Application\\Contracts\\Repositories\\IProductoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T23:27:41.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Application",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\ROMINA\\PRACTICA1\\Practica1\\Parctica\\Application\\Application.csproj",
+              "RelativeDocumentMoniker": "Application\\Application.csproj",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\ROMINA\\PRACTICA1\\Practica1\\Parctica\\Application\\Application.csproj",
+              "RelativeToolTip": "Application\\Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-21T23:27:12.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20250121140909_PrimeraMigracion2.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\ROMINA\\PRACTICA1\\Practica1\\Parctica\\Infrastructure\\Migrations\\20250121140909_PrimeraMigracion2.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20250121140909_PrimeraMigracion2.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\ROMINA\\PRACTICA1\\Practica1\\Parctica\\Infrastructure\\Migrations\\20250121140909_PrimeraMigracion2.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\20250121140909_PrimeraMigracion2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T14:09:09.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\ROMINA\\PRACTICA1\\Practica1\\Parctica\\Api\\Program.cs",
+              "RelativeDocumentMoniker": "Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\ROMINA\\PRACTICA1\\Practica1\\Parctica\\Api\\Program.cs",
+              "RelativeToolTip": "Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T13:05:01.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\ROMINA\\PRACTICA1\\Practica1\\Parctica\\Infrastructure\\Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Infrastructure\\Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\ROMINA\\PRACTICA1\\Practica1\\Parctica\\Infrastructure\\Infrastructure.csproj",
+              "RelativeToolTip": "Infrastructure\\Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-21T13:04:59.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20250121140832_PrimeraMigracion1.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\ROMINA\\PRACTICA1\\Practica1\\Parctica\\Infrastructure\\Migrations\\20250121140832_PrimeraMigracion1.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20250121140832_PrimeraMigracion1.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\ROMINA\\PRACTICA1\\Practica1\\Parctica\\Infrastructure\\Migrations\\20250121140832_PrimeraMigracion1.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\20250121140832_PrimeraMigracion1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T14:08:33.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Domian.csproj",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\ROMINA\\PRACTICA1\\Practica1\\Parctica\\Domian\\Domian.csproj",
+              "RelativeDocumentMoniker": "Domian\\Domian.csproj",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\ROMINA\\PRACTICA1\\Practica1\\Parctica\\Domian\\Domian.csproj",
+              "RelativeToolTip": "Domian\\Domian.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-21T13:13:02.685Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
