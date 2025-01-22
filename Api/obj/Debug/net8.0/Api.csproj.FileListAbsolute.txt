@@ -258,3 +258,4 @@ C:\Users\Usuario\Desktop\ROMINA\PRACTICA1\Practica1\Parctica\Api\obj\Debug\net8.
 C:\Users\Usuario\Desktop\ROMINA\PRACTICA1\Practica1\Parctica\Api\obj\Debug\net8.0\Api.pdb
 C:\Users\Usuario\Desktop\ROMINA\PRACTICA1\Practica1\Parctica\Api\obj\Debug\net8.0\Api.genruntimeconfig.cache
 C:\Users\Usuario\Desktop\ROMINA\PRACTICA1\Practica1\Parctica\Api\obj\Debug\net8.0\ref\Api.dll
+C:\Users\Usuario\Desktop\ROMINA\PRACTICA1\Practica1\Parctica\Api\obj\Debug\net8.0\Api.sourcelink.json

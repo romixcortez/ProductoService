@@ -1,4 +1,5 @@
-﻿using Infrastructure.Gateway;
+﻿using Domian.Entities;
+using Infrastructure.Gateway;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -21,5 +22,7 @@ namespace Api.Controllers
             var result = await _ordenesService.PostRequestAsync(request);
             return Ok(result);
         }
+
+       
     }
 }

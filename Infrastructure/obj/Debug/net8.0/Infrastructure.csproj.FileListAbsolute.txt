@@ -17,3 +17,4 @@ C:\Users\Usuario\Desktop\ROMINA\PRACTICA1\Practica1\Parctica\Infrastructure\obj\
 C:\Users\Usuario\Desktop\ROMINA\PRACTICA1\Practica1\Parctica\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
 C:\Users\Usuario\Desktop\ROMINA\PRACTICA1\Practica1\Parctica\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
 C:\Users\Usuario\Desktop\ROMINA\PRACTICA1\Practica1\Parctica\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+C:\Users\Usuario\Desktop\ROMINA\PRACTICA1\Practica1\Parctica\Infrastructure\obj\Debug\net8.0\Infrastructure.sourcelink.json

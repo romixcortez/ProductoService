@@ -38,5 +38,32 @@ namespace Infrastructure.Gateway
                 return null;
             }
         }
+
+        public async Task<Response?> PostRequestAsync(RequestOrdenesId requestOrdenesId)
+        {
+            try
+            {
+                var jsonContent = JsonSerializer.Serialize(requestOrdenesId);
+                var httpContent = new StringContent(jsonContent, Encoding.UTF8, "application/json");
+
+                var response = await httpClient.PostAsync(url, httpContent);
+
+                response.EnsureSuccessStatusCode();
+
+                var jsonResponse = await response.Content.ReadAsStringAsync();
+
+                var result = JsonSerializer.Deserialize<Response>(jsonResponse, new JsonSerializerOptions
+                {
+                    PropertyNameCaseInsensitive = true
+                });
+
+                return result;
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine($"Error during POST: {ex.Message}");
+                return null;
+            }
+        }
     }
 }

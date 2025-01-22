@@ -60,14 +60,7 @@ namespace Infrastructure.Repositories
 
         public async Task<List<Producto>> ListarId(int Id)
         {
-
-            var producto = await _productocontext.Productos.FindAsync(Id);
-
-            if (producto == null)
-            {
-                throw new Exception("No se encontró ningún registro de producto.");
-            }
-            return await _productocontext.Productos.ToListAsync();
+            return await _productocontext.Productos.Where(x => x.IdProducto == Id).ToListAsync();
 
         }
     }

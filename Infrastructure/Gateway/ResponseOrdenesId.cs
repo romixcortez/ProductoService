@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Infrastructure.Gateway
 {
-    public class Response
+    public class ResponseOrdenesId
     {
         public int OrderId { get; set; }
         public int Total { get; set; }
